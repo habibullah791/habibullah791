@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junaid-pk" alt="junaid-pk" /></a> </p>
 
-- 🔭 I’m currently working on [Spotify Clone](https://github.com/habibullah791/Spotify-2.0)
+- 🔭 I’m currently working on [Flutter Tourist App]
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **React, Node.js**
 
