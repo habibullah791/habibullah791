@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working as a Software Engineer at <a href="https://www.innovaxel.com/">innova}{el </a>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React NAtive**
 
-- 💬 Ask me about **React, Node.js**
+- 💬 Ask me about **React, Django**
 
-- 📫 How to reach me **shahid.habib791@gmail.com**
+- 📫 How to reach me **habibullahshahid001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
