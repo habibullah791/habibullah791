@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junaid-pk" alt="habibullah791" /></a> </p>
 
-- 🔭 I’m currently working as Software Engineer at <a href="https://www.innovaxel.com/">innova}{el </a>
+- 🔭 I’m currently working as a Software Engineer at <a href="https://www.innovaxel.com/">innova}{el </a>
 
 - 🌱 I’m currently learning **Flutter**
 
