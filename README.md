@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working as a Software Engineer at <a href="https://www.innovaxel.com/">innova}{el </a>
 
-- 🌱 I’m currently learning **React NAtive**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React, Django**
 
