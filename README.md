@@ -19,7 +19,7 @@
 <a href="https://twitter.com/habibullah791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="habibullah791" height="30" width="40" /></a>
 <a href="nkedin.com/in/habib-ullah-33496b211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="habib ullah" height="30" width="40" /></a>
 <a href="https://fb.com/habib ullah shahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="habib ullah shahid" height="30" width="40" /></a>
-<a href="https://instagram.com/whoishabibshahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whoishabibshahid" height="30" width="40" /></a>
+<a href="https://instagram.com/habibullah791" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whoishabibshahid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
