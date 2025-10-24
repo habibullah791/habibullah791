@@ -1,7 +1,7 @@
 
 ![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Haib Ullah</h1>
-<h3 align="center">A passionate frontend developer from Pakistan.</h3>
+<h3 align="center">A passionate engineer from Pakistan.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid-pk&label=Profile%20views&color=0e75b6&style=flat" alt="junaid-pk" /> </p>
